@@ -8,6 +8,6 @@ Let me introduce myself:
 - 🤔 GitHub is a place for me to upload my homework, learn new knowledge and share interesting softwares.
 - 📫 E-mail: 742984981@qq.com
 - 📘 Education: QLU, NJTech University
-- 📲 Address: Nanjing, Jiangsu
-- 🌇 Hometown: Jinan, Shandong
+- 📲 Address: Nanjing, Jiangsu, China
+- 🌇 Hometown: Jinan, Shandong, China
 - ✈️ I am very glad to communicate with you!
